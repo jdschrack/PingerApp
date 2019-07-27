@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("UnitedHealth Group")> 
 <Assembly: AssemblyProduct("PingerApp")> 
-<Assembly: AssemblyCopyright("Copyright © UnitedHealth Group 2012")> 
+<Assembly: AssemblyCopyright("Copyright © 2012")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
